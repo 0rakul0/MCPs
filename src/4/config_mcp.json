@@ -1,0 +1,14 @@
+{
+  "mcpServers":{
+    "busca-wikipedia-local": {
+      "command": "D:/github/MCPs/.venv/Scripts/python.exe",
+      "args": [
+        "--directory",
+        "D:/github/MCPs/4",
+        "run",
+        "servidor4.py"
+      ],
+      "description": "Um servidor MCP local que faz buscas na wikipedia e retorna o resumo de um artigo"
+    }
+  }
+}
