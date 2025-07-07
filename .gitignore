@@ -1,2 +1,8 @@
 /src/ragnarok/
 /.env
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/MCPs.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml

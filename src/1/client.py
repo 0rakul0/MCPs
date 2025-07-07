@@ -1,5 +1,4 @@
 import asyncio
-from pathlib import Path
 from fastmcp import Client
 
 caminho_serv = 'http://localhost:8000/sse'
