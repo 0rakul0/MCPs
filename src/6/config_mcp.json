@@ -1,0 +1,8 @@
+{
+  "mcpServers":{
+    "estimar_genero": {
+      "url": "http://localhost:8000/sse",
+      "description": "Um servidor MCP que traz a probabilidade do primeiro nome ser homem ou mulher."
+    }
+  }
+}
